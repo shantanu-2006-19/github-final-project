@@ -1,0 +1,9 @@
+curl -s https://api.github.com/repos/shantanu-2006-19/test-1 | grep -i fork
+  "fork": true,
+  "forks_url": "https://api.github.com/repos/shantanu-2006-19/test-1/forks",
+  "forks": 0,
+  "forks_count": 0,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+  "source": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
